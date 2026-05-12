@@ -1,0 +1,30 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+app/build/
+
+# Android Studio / IntelliJ
+*.iml
+.gradle
+.idea/
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Secrets
+*.jks
+*.keystore
+google-services.json
+
+# Temporary files
+*.swp
+*~
+.stackdump
+*.log
