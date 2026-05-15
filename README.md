@@ -34,7 +34,6 @@ NammaHomestay is an Android application developed to help users discover, explor
 NammaHomestay/
 │── app/
 │── gradle/
-│── screenshots/
 │── build.gradle
 │── settings.gradle
 │── README.md
@@ -68,11 +67,6 @@ git clone https://github.com/Kushal112-code/NammaHomestay.git
 
 ---
 
-## Screenshots
-
-_Add project screenshots here_
-
----
 
 ## Future Enhancements
 
